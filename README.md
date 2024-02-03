@@ -49,7 +49,7 @@ Se você tiver alguma dúvida ou sugestão, entre em contato comigo por e-mail o
 
 **Links Úteis:**
 
-* Site layout do VALORANT: [\[https://playvalorant.com/\](https://drive.google.com/file/d/1C8qsqAzzlDSMcOeRbiNZjS6E93lqZrOV/view?usp=sharing)]
+* Site layout do VALORANT: (https://drive.google.com/file/d/1C8qsqAzzlDSMcOeRbiNZjS6E93lqZrOV/view?usp=sharing)]
 * * Projeto rodando: (https://valorant-clone-phi.vercel.app/)
 
 **Espero que você goste deste projeto!**
